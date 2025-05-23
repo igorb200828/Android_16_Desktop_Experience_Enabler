@@ -8,16 +8,15 @@ Android 16 Desktop Experience Enabler is a module for LSPosed that enables the "
 
 This module modifies core system behavior and thus primarily targets system components involved in window and display management. The changes will affect how the entire system handles desktop mode. Key components influenced include:
 
-*   **System UI:** `com.android.systemui` (for taskbar, window decorations, etc.)
-*   **Android Framework:** `android` (for underlying window and display logic)
-*   **Settings:** `com.android.settings` (for any developer options or settings related to desktop mode)
+*   **System UI:** `com.android.systemui`
+*   **Android Framework:** `android`
+*   **Settings:** `com.android.settings`
 *   **Shell:** `com.android.shell`
-*   **Launchers:** e.g., `com.google.android.apps.nexuslauncher` (for how they interact with different display states)
+*   **Launcher:** `com.google.android.apps.nexuslauncher`
 
 **Important:** 
 
 This module is intended to modify system-wide behavior. The Desktop Mode on external display has many bugs but once it is properly set up the Desktop Mode should work as expected.
-
 
 ## How to install
 
@@ -33,7 +32,7 @@ You must also have [LSPosed](https://github.com/mywalkb/LSPosed_mod) installed
 
 ### Installation
 
-- Download the latest APK of Android 16 Desktop Experience Enabler Theme from the [releases section](https://github.com/igorb200828/) and install it like any normal APK.
+- Download the latest APK of Android 16 Desktop Experience Enabler Theme from the [releases section](https://github.com/igorb200828/Android_16_Desktop_Experience_Enabler/releases) and install it like any normal APK.
 - Now open the LSPosed Manager and go to "Modules".
 - "Android 16 Desktop Experience Enabler" should now appear in that list.
 - Click on "Android 16 Desktop Experience Enabler" and enable the module by flipping the switch at the top that says "Enable module".
