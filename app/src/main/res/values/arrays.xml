@@ -6,5 +6,6 @@
         <item>com.google.android.apps.nexuslauncher</item>
         <item>android</item>
         <item>com.android.shell</item>
+        <item>system</item>
     </string-array>
 </resources>

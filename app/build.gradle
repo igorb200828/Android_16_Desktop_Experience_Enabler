@@ -4,11 +4,11 @@ plugins {
 
 android {
     namespace 'com.igorb.desktopexperience'
-    compileSdk 35
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.igorb.desktopexperience"
-        minSdk 35
+        minSdk 36
         targetSdkVersion '36'
         versionCode 1
         versionName '1.1'
