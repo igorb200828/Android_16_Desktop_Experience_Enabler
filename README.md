@@ -9,6 +9,7 @@ Android 16 Desktop Experience Enabler is a module for LSPosed that enables the "
 This module modifies core system behavior and thus primarily targets system components involved in window and display management. The changes will affect how the entire system handles desktop mode. Key components influenced include:
 
 *   **System UI:** `com.android.systemui`
+*   **System:** `system`
 *   **Android Framework:** `android`
 *   **Settings:** `com.android.settings`
 *   **Shell:** `com.android.shell`
